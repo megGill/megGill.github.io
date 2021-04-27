@@ -1,0 +1,19 @@
+com/meghangillwrites/stormyhour/ui/NetworkUnavailableDialogFragment.java
+ com.meghangillwrites.stormyhour.ui.NetworkUnavailableDialogFragment
+com/meghangillwrites/stormyhour/BuildConfig.java
+ com.meghangillwrites.stormyhour.BuildConfig
+com/meghangillwrites/stormyhour/DataBindingTriggerClass.java
+ com.meghangillwrites.stormyhour.DataBindingTriggerClass
+com/meghangillwrites/stormyhour/adapters/HourlyAdapter.java
+ com.meghangillwrites.stormyhour.adapters.HourlyAdapter
+ com.meghangillwrites.stormyhour.adapters.HourlyAdapter$ViewHolder
+com/meghangillwrites/stormyhour/databinding/ActivityMainBinding.java
+ com.meghangillwrites.stormyhour.databinding.ActivityMainBinding
+com/meghangillwrites/stormyhour/weather/Hour.java
+ com.meghangillwrites.stormyhour.weather.Hour
+com/meghangillwrites/stormyhour/ui/MainActivity.java
+ com.meghangillwrites.stormyhour.ui.MainActivity
+ com.meghangillwrites.stormyhour.ui.MainActivity$1
+ com.meghangillwrites.stormyhour.ui.MainActivity$1$1
+com/meghangillwrites/stormyhour/databinding/HourlyListItemBinding.java
+ com.meghangillwrites.stormyhour.databinding.HourlyListItemBinding
